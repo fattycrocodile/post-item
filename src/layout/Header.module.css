@@ -1,0 +1,11 @@
+.navbar_item_text {
+  @apply font-sans text-[15px] font-semibold not-italic leading-5 text-navbar;
+}
+
+.navbar_href_text {
+  @apply font-sans font-normal text-[13px] not-italic leading-[18px] h-9  pt-[8px] pb-[10px];
+}
+
+.navbar_item_margin_y {
+  @apply mb-[17px];
+}
